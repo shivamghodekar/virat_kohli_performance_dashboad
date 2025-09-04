@@ -5,6 +5,10 @@ The data is extracted from **PostgreSQL**, processed using **SQL queries**, and 
 
 ---
 
+![Virat Kohli Performance Dashboard](./dashboard.png)
+
+---
+
 ## 🔹 Features
 - **Total Runs** → Displays overall runs scored (aggregated).  
 - **Runs by Ground** → Highlights performance across stadiums (Wankhede, Visakhapatnam, Wellington, etc.).  
