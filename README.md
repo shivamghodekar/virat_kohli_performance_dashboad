@@ -5,6 +5,10 @@ The data is extracted from **PostgreSQL**, processed using **SQL queries**, and 
 
 ---
 
+<img width="874" height="493" alt="dashboard png" src="https://github.com/user-attachments/assets/fd372073-2fec-4fab-b6ee-c3cb35d848f9" />
+
+
+---
 ## 🔹 Features
 - **Total Runs** → Displays overall runs scored (aggregated).  
 - **Runs by Ground** → Highlights performance across stadiums (Wankhede, Visakhapatnam, Wellington, etc.).  
