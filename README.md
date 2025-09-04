@@ -63,12 +63,3 @@ This dashboard answers key cricket performance questions using **data analytics*
 4. **Visualization**: Built dashboard with KPIs, charts, and filters.  
 
 ---
-
-## 📥 Setup Instructions
-### Prerequisites
-- Install **PostgreSQL** (v13+ recommended).  
-- Install **Power BI Desktop**.  
-- Clone this repository:  
-  ```bash
-  git clone https://github.com/your-username/virat-kohli-dashboard.git
-  cd virat-kohli-dashboard
